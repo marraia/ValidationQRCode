@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  montenegro.qrcode.validation:
+    image: montenegroqrcodevalidation
+    build:
+      context: .
+      dockerfile: Montenegro.QrCode.Validation/Dockerfile

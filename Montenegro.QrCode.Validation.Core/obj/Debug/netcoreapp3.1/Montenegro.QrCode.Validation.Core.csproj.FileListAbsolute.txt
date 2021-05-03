@@ -1,0 +1,10 @@
+C:\_test\Montenegro.QrCode.Validation\Montenegro.QrCode.Validation.Core\bin\Debug\netcoreapp3.1\Montenegro.QrCode.Validation.Core.deps.json
+C:\_test\Montenegro.QrCode.Validation\Montenegro.QrCode.Validation.Core\bin\Debug\netcoreapp3.1\Montenegro.QrCode.Validation.Core.dll
+C:\_test\Montenegro.QrCode.Validation\Montenegro.QrCode.Validation.Core\bin\Debug\netcoreapp3.1\Montenegro.QrCode.Validation.Core.pdb
+C:\_test\Montenegro.QrCode.Validation\Montenegro.QrCode.Validation.Core\obj\Debug\netcoreapp3.1\Montenegro.QrCode.Validation.Core.csprojAssemblyReference.cache
+C:\_test\Montenegro.QrCode.Validation\Montenegro.QrCode.Validation.Core\obj\Debug\netcoreapp3.1\Montenegro.QrCode.Validation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\_test\Montenegro.QrCode.Validation\Montenegro.QrCode.Validation.Core\obj\Debug\netcoreapp3.1\Montenegro.QrCode.Validation.Core.AssemblyInfoInputs.cache
+C:\_test\Montenegro.QrCode.Validation\Montenegro.QrCode.Validation.Core\obj\Debug\netcoreapp3.1\Montenegro.QrCode.Validation.Core.AssemblyInfo.cs
+C:\_test\Montenegro.QrCode.Validation\Montenegro.QrCode.Validation.Core\obj\Debug\netcoreapp3.1\Montenegro.QrCode.Validation.Core.csproj.CoreCompileInputs.cache
+C:\_test\Montenegro.QrCode.Validation\Montenegro.QrCode.Validation.Core\obj\Debug\netcoreapp3.1\Montenegro.QrCode.Validation.Core.dll
+C:\_test\Montenegro.QrCode.Validation\Montenegro.QrCode.Validation.Core\obj\Debug\netcoreapp3.1\Montenegro.QrCode.Validation.Core.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lOdjdUo+zu98MCr1M5Dh4s9mdq9L28p06qXqetn48uUnP/h4gjoVIa6YEJWma+fOu7Mti0hxKYNAd1PjXTsp6A==",
+  "success": true,
+  "projectFilePath": "C:\\_test\\Montenegro.QrCode.Validation\\Montenegro.QrCode.Validation.Core\\Montenegro.QrCode.Validation.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\foes\\.nuget\\packages\\refit\\6.0.38\\refit.6.0.38.nupkg.sha512",
+    "C:\\Users\\foes\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

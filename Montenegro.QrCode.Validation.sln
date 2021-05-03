@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Montenegro.QrCode.Validation", "Montenegro.QrCode.Validation\Montenegro.QrCode.Validation.csproj", "{3B0C4C0A-48F2-4128-90A8-5B064CBA5227}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Montenegro.QrCode.Validation.Core", "Montenegro.QrCode.Validation.Core\Montenegro.QrCode.Validation.Core.csproj", "{D26CE517-3347-4B84-98CD-ED2B33E2C219}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{B9655D72-F7DD-4D0E-BB9E-B2E8BA2D69D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B0C4C0A-48F2-4128-90A8-5B064CBA5227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0C4C0A-48F2-4128-90A8-5B064CBA5227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0C4C0A-48F2-4128-90A8-5B064CBA5227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0C4C0A-48F2-4128-90A8-5B064CBA5227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26CE517-3347-4B84-98CD-ED2B33E2C219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26CE517-3347-4B84-98CD-ED2B33E2C219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26CE517-3347-4B84-98CD-ED2B33E2C219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26CE517-3347-4B84-98CD-ED2B33E2C219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9655D72-F7DD-4D0E-BB9E-B2E8BA2D69D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9655D72-F7DD-4D0E-BB9E-B2E8BA2D69D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9655D72-F7DD-4D0E-BB9E-B2E8BA2D69D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9655D72-F7DD-4D0E-BB9E-B2E8BA2D69D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {296ABDAA-BFA7-42C2-8B9B-28A84D5541FB}
+	EndGlobalSection
+EndGlobal
