@@ -65,6 +65,7 @@ namespace Montenegro.QrCode.Validation
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Montenegro.QrCode.Validation v1"));
             }
 
+            app.UseHttpsRedirection();
             app.UseRouting();
             app.UseCors("CorsPolicy");
             app.UseAuthorization();

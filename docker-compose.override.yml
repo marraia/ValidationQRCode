@@ -4,5 +4,12 @@ services:
   montenegro.qrcode.validation:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=https://+:443;http://+:80
+      - ASPNETCORE_HTTPS_PORT=44311
+      - ASPNETCORE_Kestrel__Certificates__Default__Password=mypassword123
+      - ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx
     ports:
       - "5555:80"
+      - "44311:443"
+    volumes:
+      - ./https/aspnetapp.pfx:/https/aspnetapp.pfx:ro
