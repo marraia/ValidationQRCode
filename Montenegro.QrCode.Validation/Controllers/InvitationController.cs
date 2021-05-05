@@ -33,10 +33,6 @@ namespace Montenegro.QrCode.Validation.Controllers
 
                 return Accepted("", obj);
             }
-            catch(Refit.ApiException)
-            {
-                return BadRequest("Você não tem acesso ou o convite já foi validado!");
-            }
             catch(Exception ex)
             {
                 return BadRequest(ex.Message);

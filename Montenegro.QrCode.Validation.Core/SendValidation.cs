@@ -22,9 +22,9 @@ namespace Montenegro.QrCode.Validation.Core
 
                 return validation;
             }
-            catch(Exception ex)
+            catch(Refit.ApiException ex)
             {
-                throw ex;
+                throw new Exception(ex.Content);
             }
         }
     }
